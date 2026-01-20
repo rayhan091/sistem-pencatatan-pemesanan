@@ -1,0 +1,16 @@
+sistem-pemesanan-barang/
+├── index.php              # Halaman utama
+├── login.php              # Halaman login
+├── dashboard.php          # Dashboard
+├── logout.php             # Logout handler
+├── database.sql           # Database structure
+├── .htaccess              # Apache configuration
+├── css/                   # Stylesheets
+├── js/                    # JavaScript files
+├── config/                # Configuration files
+├── includes/              # Template files
+├── admin/                 # Admin panel
+├── products/              # Product management
+├── customers/             # Customer management
+├── api/                   # REST API
+└── assets/                # Uploads and images
